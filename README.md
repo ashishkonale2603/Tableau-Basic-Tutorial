@@ -10,3 +10,8 @@ Here is the Active link for Sheet-2:
 https://public.tableau.com/app/profile/ashish.konale/viz/ExecutiveOverview_17688357383320/SalesbyCategory
 
 <img width="1811" height="774" alt="Sales by Category" src="https://github.com/user-attachments/assets/0ef84343-f62c-4292-806a-8a543398a32c" />
+
+Here is the Active link for Sheet-3:
+https://public.tableau.com/app/profile/ashish.konale/viz/ExecutiveOverview_17688357383320/SalesbySegment
+
+<img width="1811" height="774" alt="Sales by Segment" src="https://github.com/user-attachments/assets/855b324f-16d2-4574-8663-e3dcb59ac93f" />
