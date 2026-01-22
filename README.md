@@ -1,0 +1,12 @@
+Just started to Explore Tableau!!
+Made some Dashboards with Tableau Tutorials
+
+Here is the Active link for Sheet-1:
+https://public.tableau.com/app/profile/ashish.konale/viz/ExecutiveOverview_17688357383320/Sheet1
+
+<img width="1811" height="775" alt="Profit Ratio by Geography" src="https://github.com/user-attachments/assets/771d2230-e2d6-463a-95dc-874c84d81418" />
+
+Here is the Active link for Sheet-2:
+https://public.tableau.com/app/profile/ashish.konale/viz/ExecutiveOverview_17688357383320/SalesbyCategory
+
+<img width="1811" height="774" alt="Sales by Category" src="https://github.com/user-attachments/assets/0ef84343-f62c-4292-806a-8a543398a32c" />
