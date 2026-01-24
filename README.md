@@ -1,6 +1,9 @@
 Just started to Explore Tableau!!
 Made some Dashboards with Tableau Tutorials
 
+The data set used is following:
+https://public.tableau.com/app/sample-data/sample_-_superstore.xls
+
 Here is the Active link for Sheet-1:
 https://public.tableau.com/app/profile/ashish.konale/viz/ExecutiveOverview_17688357383320/Sheet1
 
