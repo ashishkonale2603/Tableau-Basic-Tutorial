@@ -26,3 +26,8 @@ Here is the Active link for Sheet-4:
 https://public.tableau.com/app/profile/ashish.konale/viz/ExecutiveOverview_17688357383320/KeyPerformanceIndicators
 
 <img width="1624" height="130" alt="Key Performance Indicators" src="https://github.com/user-attachments/assets/de710bce-f693-4181-a63a-cb3c32a1a0c3" />
+
+Finally Made my first Dashboard on Tableau by combining multiple Sheets:
+https://public.tableau.com/app/profile/ashish.konale/viz/ExecutiveOverview_17688357383320/Dashboard1
+
+<img width="1976" height="788" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4e0276da-e851-4470-a1e4-049f6375ba6d" />
