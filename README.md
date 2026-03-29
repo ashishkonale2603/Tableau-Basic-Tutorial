@@ -10,6 +10,7 @@ https://public.tableau.com/app/profile/ashish.konale/viz/ExecutiveOverview_17688
 
 <img width="1811" height="775" alt="Profit Ratio by Geography" src="https://github.com/user-attachments/assets/771d2230-e2d6-463a-95dc-874c84d81418" />
 
+
 <img width="1533" height="701" alt="Screenshot 2026-01-29 231334" src="https://github.com/user-attachments/assets/e43b4d8a-d6c6-42b9-839c-66504792f12b" />
 
 Here is the Active link for Sheet-2:
